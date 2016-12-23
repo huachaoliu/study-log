@@ -2,10 +2,14 @@
 
 ### example:
  * 数组排序 
- ` 
+  ` 
     array.sort(); 
   `
  * 数组克隆
- `
+  `
     array.slice() || JSON.parse(JSON.stringify(arr))
- `
+  `
+ * 页面滚动条撑坏布局
+  `
+    margin-left(100vw - 10px);
+  `
