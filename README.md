@@ -11,5 +11,5 @@
   `
  * 页面滚动条撑坏布局
   `
-    margin-left(100vw - 10px);
+    margin-left: calc(100vw - 100%);
   `
