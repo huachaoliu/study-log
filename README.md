@@ -1,1 +1,11 @@
-**学习flex布局流！
+# 记录日常工作中遇到的一些问题以及其解决办法！
+
+### example:
+ * 数组排序 
+ ` 
+    array.sort(); 
+  `
+ * 数组克隆
+ `
+    array.slice() || JSON.parse(JSON.stringify(arr))
+ `
